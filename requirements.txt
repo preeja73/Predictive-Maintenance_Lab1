@@ -1,0 +1,17 @@
+# Data Streaming and Visualization Workshop — Python dependencies
+# Install: pip install -r requirements.txt
+
+pandas==3.0.0
+numpy==2.4.2
+
+matplotlib==3.10.8
+
+python-dotenv==1.2.1
+
+psycopg2-binary==2.9.11
+
+SQLAlchemy==2.0.46
+
+# Jupyter / notebook tooling (optional but recommended)
+jupyter==1.1.1
+ipykernel==6.29.5
