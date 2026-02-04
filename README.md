@@ -176,7 +176,3 @@ You can extend these visualizations (e.g. via Plotly or a BI tool) to build rich
 
 ---
 
-## License and attribution
-
-- Add your **team name or names** and **dataset source/license** here if you submit this as coursework or share the repository.
-- Workshop use case and imagery: manufacturing robot predictive maintenance (materials handling, current monitoring, and failure prediction scenarios).
